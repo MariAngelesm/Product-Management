@@ -25,8 +25,8 @@ This is a product management system developed in JavaScript, HTML, and CSS. It a
 
 ### 1. Clone the repository
 ```bash
-git clone xxxxxxx
-cd product-management
+git clone https://github.com/MariAngelesm/Product-Management.git
+cd Product-Management
 ```
 ### 2.  Install json-server (if you don't already have it)
 ```bash
