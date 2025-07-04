@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "M&M's Peanut",
+      "price": 1.33,
+      "stock": 64,
+      "type": "Chocolate",
+      "id": "1"
+    },
+    {
+      "name": "Hershey's Chocolate Bar",
+      "price": 2,
+      "stock": 70,
+      "type": "Chocolate Candy",
+      "id": "2"
+    },
+    {
+      "name": "Lollipop Charms",
+      "price": 1.3,
+      "stock": 70,
+      "type": "hard candy",
+      "id": "3"
+    }
+  ]
+}
